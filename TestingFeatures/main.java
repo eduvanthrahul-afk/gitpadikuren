@@ -3,6 +3,6 @@ class main{
         System.out.println("Hello GitHub!");
         int x = 0;
         System.out.println(x);
-        System.out.println("i am on feature branch");
+        System.out.println("i am on test branch");
     }
 }
